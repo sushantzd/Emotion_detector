@@ -59,6 +59,13 @@ The `emotion_detector.py` script does the following:
 - Predicts emotion using the trained CNN
 - Displays predicted label on screen in real-time
 
+## 🚀 Requirements
+tensorflow==2.13.0
+keras==2.13.1
+numpy==1.23.5
+opencv-python==4.8.0.76
+matplotlib==3.7.2
+
 ### ▶️ Run the app
 ```bash
 python emotion_detector.py
